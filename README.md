@@ -14,7 +14,7 @@ Bayesian Eikonal Tomography
       -- Finite Difference Method (using Sethian's method to calculate arrival time)
       
 - Backward problem
-      -- Inverse problem solving to generate a velocity model set by the reversible jump Markov chain Monte Carlo method - RJ-MCMC.      
+      -- Inverse problem solving to generate a velocity model set by the reversible jump Markov chain Monte Carlo method - RJ-MCMC.
       
                             This process produces amplitude squared.
 ____________________________________________________________
