@@ -44,7 +44,7 @@ ____________________________________________________________
    a local repository.
 - Enter in examples/marmousi_2 directory and execute the following command:
 
-      -- ./../../bin/seismic_tomography parameters_inversion.txt
+      ./../../bin/seismic_tomography parameters_inversion.txt
    
 
 The parameters_inversion.txt file contains the necessary parameters for 
