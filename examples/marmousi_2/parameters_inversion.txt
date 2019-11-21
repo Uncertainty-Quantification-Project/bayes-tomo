@@ -1,0 +1,17 @@
+files/	#folder where files are looked for stored
+sensors_synth.txt	#sensor file name
+T_file/T_marmousi	#events travel time file name
+inverted/model_V	# inverted velocity model
+71	#dim x
+341	#dim y
+1	#dim z
+50	#space grid
+500000	#number iteration
+0.067	#svd of the noise data
+10	#svd to locate update parameterization in voronoi field
+50	#pass in velocity
+1500	#vel minima
+5500	#vel max
+200	#num of cluster
+1	#1 inverte parametrização, 0 mantém fixa a parametrização
+15	#numeros de pontos para suavização
